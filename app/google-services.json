@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "337227489227",
+    "project_id": "gestiondeinmuebles-47cd3",
+    "storage_bucket": "gestiondeinmuebles-47cd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337227489227:android:671e94fc36cba7e419204e",
+        "android_client_info": {
+          "package_name": "com.example.gestionedificios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337227489227-c89g2hepsqlr0sm1pvoctv4ftg7nnp9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF-rKj10uGH2JrLNNnIw6JjZzeobxy4Hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337227489227-c89g2hepsqlr0sm1pvoctv4ftg7nnp9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

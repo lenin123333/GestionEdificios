@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GestionEdificios</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="iniciar_sesion_con_google">Iniciar Sesion con Google</string>
+</resources>
